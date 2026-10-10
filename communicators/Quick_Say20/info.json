@@ -1,0 +1,11 @@
+{
+  "name": "Quick_Say20 - a 20 element language model",
+  "author": "Jim Luther",
+  "website": "https://github.com/jamjolu",
+  "languages": ["en"],
+  "description": {
+    "en": "Quick_Say20 is meant to provide grammatically correct, flexible, conversational ability that is as efficient as possible in a 4 row, 5 column format that is usable on a small tablet or phone. I positioned the most commonly used words close to the home page, prioritizing core language. Quick_Say20 may be a good choice for users who already have some grammar and literacy skills."
+  },
+  "wordPrediction": false,
+  "tags": ["COMMUNICATOR", "4x5"]
+}

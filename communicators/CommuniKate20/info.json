@@ -1,0 +1,14 @@
+{
+  "name": {
+    "en": "CommuniKate 20"
+  },
+  "author": "CC-By NC-SA by Kate McCallum",
+  "website": "https://www.openboardformat.org/examples",
+  "description": {
+    "en": "CommuniKate 20 is a functional communication board with 20 buttons per board created by Kate McCallum for the adult population of communicators that she serves."
+  },
+  "tags": ["CommuniKate", "5x4"],
+  "wordPrediction": false,
+  "generateGlobalGrid": true,
+  "license": "CC BY-NC-SA 4.0"
+}

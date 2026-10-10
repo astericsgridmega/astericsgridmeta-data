@@ -1,0 +1,11 @@
+{
+  "name": "Word forms demo",
+  "author": "Benjamin Klaus",
+  "website": "https://github.com/klues",
+  "languages": ["en","de","es"],
+  "description": {
+    "en": "This configuration provides demos for showing the possibilities regarding word forms (grammar) within AsTeRICS Grid"
+  },
+  "wordPrediction": false,
+  "tags": ["DEMO"]
+}

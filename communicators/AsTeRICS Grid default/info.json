@@ -1,0 +1,13 @@
+{
+  "name": "AsTeRICS Grid default",
+  "author": "AsTeRICS Foundation / UAS Technikum Wien",
+  "website": "https://www.asterics-foundation.org/1270-2/",
+  "languages": ["ar", "bn", "bg", "zh", "en", "fr", "de", "he", "hi", "id", "it", "ja", "pl", "pt", "ro", "ru", "sr", "es", "tr", "uk", "ur"],
+  "description": {
+    "en": "Demo configuration containing examples for basic communication, a YouTube player, webradio player, different keyboards and environmental control.",
+    "de": "Demo Konfiguration für einfache Kommunikation, einen YouTube-Player, Webradio-Player, verschiedene Keyboard-Layouts und Umgebungssteuerung."
+  },
+  "priority": 5,
+  "wordPrediction": true,
+  "tags": ["BASIC", "4x5"]
+}
